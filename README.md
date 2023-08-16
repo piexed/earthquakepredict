@@ -2,6 +2,9 @@
 Welcome to the Earthquake Prediction Model GitHub repository!
 # Earthquake Prediction and Alarm System
 
+##author 
+Gorkha Lama (developer brother )
+email piexedinc@protonmail.com
 Welcome to the Earthquake Prediction and Alarm System project! This repository contains a simplified example of a machine learning-based earthquake prediction model that triggers real-time alarms in response to detected earthquakes.
 
 **Disclaimer: This project is for educational purposes only and does not guarantee accurate earthquake prediction or real-time response. Actual earthquake prediction is a complex scientific challenge.**
